@@ -40,8 +40,4 @@ vignettes/*.pdf
 .Rproj.user
 
 # Other Files
-<<<<<<< HEAD
 *.sav
-=======
-.sav
->>>>>>> 1eaed694245dc2d5e275ceaa0674e58a01431eac
